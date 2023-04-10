@@ -12,3 +12,11 @@ describe("updateQuality", () => {
     expect(testItem.sellIn).toBe(4);
   });
 });
+
+// describe("Cheese Item", () => {
+//    //test properties
+// })
+
+// describe("Legendary Item", () => {
+//    //test properties
+// })
